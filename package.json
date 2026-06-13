@@ -1,0 +1,13 @@
+{
+  "name": "patumahoe-board-report-service",
+  "version": "1.0.0",
+  "description": "Board report .docx generator for Patumahoe School",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "docx": "^9.6.1",
+    "express": "^4.18.2"
+  }
+}
